@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Neko!"
 date:   2017-06-02 19:51:49 +0800
 categories: jekyll update
 ---
